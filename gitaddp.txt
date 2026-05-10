@@ -1,2 +1,3 @@
 test git add -p partial add part 01
 test git add -p part 002
+test git add -p part 003
